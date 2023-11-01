@@ -1,0 +1,10 @@
+# picturesgraph TD
+A(Year 1) --> B(Year 5)
+B --> C(Year 10)
+C --> D(Year 15)
+D --> E(Year 20)
+style A fill:#f9d5e5,stroke:#333,stroke-width:4px;
+style B fill:#ee9ca7,stroke:#333,stroke-width:4px;
+style C fill:#e66767,stroke:#333,stroke-width:4px;
+style D fill:#ea5455,stroke:#333,stroke-width:4px;
+style E fill:#d92027,stroke:#333,stroke-width:4px;
